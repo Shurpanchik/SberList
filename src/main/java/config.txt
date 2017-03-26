@@ -1,0 +1,2 @@
+false
+C:\Users\таня\Documents\NetBeansProjects\SberList\target\commands
